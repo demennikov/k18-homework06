@@ -1,0 +1,104 @@
+h1, h2, h3, h4, h5, h6 {
+			text-transform: uppercase;
+}
+
+
+.content {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: white;
+	padding-top: 78px;
+	padding-bottom: 60px;
+	padding-left: 30px;
+	padding-right: 30px;
+
+}
+
+
+body {
+	font-family: Arial, sans-serif;
+	background-color: #d1e4ff;
+	margin: 0;
+}
+
+
+.content span {
+	font-family: "Courier New", monospace;
+	background-color: #f0e6d6;
+}
+
+
+
+.content kbd {
+	font-family: "Courier New", monospace;
+	background-color: #eadcea;
+}
+
+
+.content pre {
+	font-family: "Courier New", monospace;
+	background-color: #f0e6d6;
+}
+
+
+.content samp {
+	font-family: "Courier New", monospace;
+	background-color: #eadcdc;
+}
+
+
+.content code {
+	font-family: "Courier New", monospace;	
+	background-color: #f0e6d6;
+}
+
+
+.content dt {
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+.content table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+
+.content td {
+	border: 1px solid;
+	padding: 5px;
+	border-collapse: collapse;
+	border-color: #b496b4;
+}
+
+
+.content th {
+	border: 1px solid;
+	padding: 5px;
+	border-collapse: collapse;
+	border-color: #b496b4;
+	background-color: #eadcea;
+}
+
+
+.content div {	
+	background-color: #eadcea;
+	border-width: 0 0 0 4px;
+	border-style: solid;
+	border-color: #b496b4;
+}
+
+
+
+.content div blockquote span {
+	background-color: #eadcea;
+}
+
+
+.content dd {
+	margin-bottom: 20px;
+}
+
+
